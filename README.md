@@ -1,2 +1,2 @@
-# Decola-Tech-3a-edi-o
+# Decola-Tech-3a-Edição
 Projeto básico utilizando React-Native
